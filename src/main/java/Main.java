@@ -31,6 +31,9 @@ public class Main {
         }
         System.out.println("***********************");
 
+       //Câu 6
+        bai1.classStatistic(studentsWithFinalMark);
+}
 
     }
 }
