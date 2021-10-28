@@ -33,7 +33,6 @@ public class Main {
 
        //Câu 6
         bai1.classStatistic(studentsWithFinalMark);
-}
 
     }
 }
